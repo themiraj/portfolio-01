@@ -1,0 +1,203 @@
+{
+  "about": {
+    "address": {
+      "stree": 1,
+      "landmark": "toll",
+      "vill": "hakrishan vihar",
+      "city": "ludhiana",
+      "postalcode": 141007,
+      "Current_Location": "Mohali Punjab"
+    },
+    "personal_details": {
+      "phone": "+917080808080",
+      "email": "mohdmiraj143@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/themiraj",
+      "github": "https://github.com/themiraj",
+      "whatsapp": "https://wa.me/8054728743"
+    },
+    "skill_items": {
+      "items": [
+        "ReactJS",
+        "JavaScript",
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "Material UI",
+        "SCSS",
+        "LESS",
+        "Firebase",
+        "jQuery",
+        "NextJS",
+        "BOOTSTRAP",
+        "Wordpress",
+        "GitHub",
+        "BitBucket"
+      ],
+      "items_description": {
+        "ReactJS": "",
+        "JavaScript": "",
+        "Redux": "",
+        "HTML5": "",
+        "CSS3": "",
+        "SCSS": "",
+        "LESS": "",
+        "Firebase": "",
+        "jQuery": "",
+        "NextJS": "",
+        "Material UI": "",
+        "BOOTSTRAP": "",
+        "Wordpress": "",
+        "GitHub": "",
+        "BitBucket": ""
+      }
+    }
+  },
+  "work_experience": [
+    {
+      "id": 1,
+      "company_name": "DigimantraLabs, Ludhiana",
+      "position": "Frontend Developer",
+      "tasks": [
+        "Performed frontend development for an interactive web application to improve functionality and user experience using HTML, CSS, jQuery ,Javascript.",
+        "Collaborated with senior developers to test and optimize existing code architectures for long standing simulation projects."
+      ],
+      "number_of_experice": 1,
+      "from": "24th April 2018",
+      "to": "02 Nov 2020"
+    },
+    {
+      "id": 2,
+      "company_name": "Infino Digital Agency, Ludhiana",
+      "position": "Frontend Developer (ReactJS developer)",
+      "tasks": [
+        "Started working as Reactjs Developer in the Frontend team.",
+        "Handle the restful api using reactjs and redux."
+      ],
+      "number_of_experice": 1,
+      "from": "17 May 2020",
+      "to": " 21 Nov 2021"
+    },
+    {
+      "id": 3,
+      "company_name": "Luminoguru Private Limited",
+      "position": "Frontend developer (Reactjs developer)",
+      "tasks": [
+        "Started working as Reactjs Developer in the Frontend team",
+        "Worked with Front-end team to CarToBike, website using React JS, JavaScript, Redux, Material UI, HTML5, TypeScript & CSS.",
+        "Designed dynamic and browser compatible pages using HTML5, CSS3, React, and Javascript. ",
+        "Start Designing front-end within object-oriented JavaScript frameworks like React JS",
+        "Integrated REST API’s with React Components",
+        "Hands-on experience in using Git/GitHub for version control and Jira, Trello as work management and issue tracking tools.",
+        "Worked with cross browser compatibility issues and did testing on the browsers like Google Chrome, Mozilla Firebox, Microsoft Edge"
+      ],
+      "number_of_experice": 1,
+      "from": "15 Nov 2021",
+      "to": "Present"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "logo":"/logo.png",
+      "Name": "Lever Tennis",
+      "link": "www.Lavertennis.com",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 2,
+      "Name": "Skill-up Technologies",
+      "Demo Link": "https://skillup.tech",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 3,
+      "Name": "Big Brand",
+      "Demo Link": "https://www.bigbrands.io",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 4,
+      "Name": "Revitalize",
+      "Demo Link": "http://new.rfmtx.com",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 5,
+      "Name": "Flastshare Landing Pang",
+      "Demo Link": "https://flatshares.global",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 6,
+      "Name": "Almawiz.com",
+      "Demo Link": "http://www.almawiz.com",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 7,
+      "Name": "Daszentrum.com",
+      "Demo Link": "http://daszentrum.wedje.space",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 8,
+      "Name": "Rentiable",
+      "Demo Link": "https://rentible.io",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 9,
+      "Name": "Earthlink",
+      "Demo Link": "https://www.earthlink.net",
+      "short_description":"",
+      "description":""
+    },
+    {
+      "id": 10,
+      "Name": "CarToBike",
+      "Demo Link": "https://cartobike.com",
+      "short_description":"",
+      "description":""
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "LPU Distance, Ludhiana",
+      "degree": "B.Sc(IT)",
+      "from": "2017",
+      "to": "2020"
+    },
+    {
+      "id": 2,
+      "institution": "Ludhiana Group of Colleges, Ludiiana",
+      "degree": "Diploma(IT)",
+      "from": "2015",
+      "to": "2017"
+    },
+    {
+      "id": 3,
+      "institution": "Govt. Sen. Sec. School (Multipurpose), Ludhiana",
+      "degree": "Higher Secondary Certificate",
+      "from": "2013",
+      "to": "2015"
+    },
+    {
+      "id": 4,
+      "institution": "SDP Sen. Sec. School, Ludhiana",
+      "degree": "Secondary School Certificate",
+      "from": "2011",
+      "to": "2013"
+    }
+  ],
+  "languages": ["Hindi", "English", "Punjabi"],
+  "interests": ["Web Surfing", "Playing Mobile & Pc Games", "Movies", "Music"]
+}
