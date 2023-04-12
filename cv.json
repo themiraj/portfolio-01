@@ -101,71 +101,153 @@
       "logo":"/logo.png",
       "Name": "Lever Tennis",
       "link": "www.Lavertennis.com",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "slug":"lever-tennis",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 2,
       "Name": "Skill-up Technologies",
       "Demo Link": "https://skillup.tech",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "slug":"skill-up-technologiess",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 3,
       "Name": "Big Brand",
       "Demo Link": "https://www.bigbrands.io",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 4,
       "Name": "Revitalize",
       "Demo Link": "http://new.rfmtx.com",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 5,
       "Name": "Flastshare Landing Pang",
       "Demo Link": "https://flatshares.global",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 6,
       "Name": "Almawiz.com",
       "Demo Link": "http://www.almawiz.com",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 7,
       "Name": "Daszentrum.com",
       "Demo Link": "http://daszentrum.wedje.space",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 8,
       "Name": "Rentiable",
       "Demo Link": "https://rentible.io",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 9,
       "Name": "Earthlink",
       "Demo Link": "https://www.earthlink.net",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     },
     {
       "id": 10,
       "Name": "CarToBike",
       "Demo Link": "https://cartobike.com",
-      "short_description":"",
-      "description":""
+      "short_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "description":"This article shows you how to get the position of an element in React regardless of whether the element is fixed or repositionable. We’ll explore the technique to get the job done and then walk through a complete example of applying that in practice. The code will be written in Javascript and TypeScript for your reference according to your preferences. We’ll use modern features of React like hooks and functional components. Old-fashioned stuff like class-based components or things related to them won’t appear.",
+      "reposibility":[
+        {"id":1, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":2, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":3, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":4, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"},
+        {"id":5, "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"}
+      ],
+      "technologies":["html", "css", "reactjs", "laravel", "github"]
     }
   ],
   "education": [

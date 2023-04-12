@@ -1,21 +1,19 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+
+module.exports = {
   reactStrictMode: true,
   compiler: {
     // Enables the styled-components SWC transform
     styledComponents: true
   },
   images: {
+    // domains:['www.webriderz.com'],
     remotePatterns: [
       {
-        protocol: 'http',
-        domains: 'localhost',
-        port: '3000',
-        pathname: '/',
+        // protocol: 'https',
+        hostname: 'webriderz.com',
       },
     ],
   },
-
 }
 
-module.exports = nextConfig
